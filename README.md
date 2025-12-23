@@ -34,14 +34,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavidubandara&theme=dark&show_icons=true&count_private=true&custom_title=Kavidu%20Bandara's%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bsit231032&theme=dark&show_icons=true&count_private=true&custom_title=Kavidu%20Bandara's%20GitHub%20Stats" />
   <br></br>
   
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kavidubandara&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bsit231032&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavidubandara&theme=dark&hide_border=false&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsit231032&theme=dark&hide_border=false&layout=compact"/>
   
 </td>
 </tr>

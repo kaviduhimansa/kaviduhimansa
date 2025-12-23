@@ -28,22 +28,22 @@
 
 
 ---
-
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavidubandara&theme=dark&show_icons=true&count_private=true&custom_title=Kavidu%20Bandara's%20GitHub%20Stats" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://camo.githubusercontent.com/f429923475320c88b81df6426b0da3aa61938b9cc35debc702e7852973d74eff/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d796f736830383139267468656d653d6461726b26686964655f626f726465723d66616c7365" /> 
+  
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kavidubandara&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github.com/Bsit231032/gif/blob/main/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d796f736830383139267468656d653d6461726b26686964655f626f726465723d66616c7365266.svg"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavidubandara&theme=dark&hide_border=false&layout=compact"/>
   
-  </td>
+</td>
 </tr>
 </table>
 

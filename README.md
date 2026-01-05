@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bsit231032&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&currStreakLabel=fcd34d)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bsit231032&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=fcd34d)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bsit231032&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee)](https://github.com/anuraghazra/github-readme-stats)
 

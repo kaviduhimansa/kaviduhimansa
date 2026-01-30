@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img height="300" src="https://github.com/Bsit231032/gif/blob/main/cover.png" alt="kavidu bandara"/>
-</div>
 
 <h1 align="center">Hi 👋, I'm Kavidu Himansa</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>

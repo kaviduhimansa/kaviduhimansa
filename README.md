@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kavidu Himansa</h1>
-<h3 align="center">Undergraduate IT Student | Full-Stack Web Development Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaviduhimansa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <table align="center">
   <tr>
     <td width="50%" align="left">
@@ -16,10 +9,15 @@
 
     </td>
     <td width="50%" align="center">
-      <img alt="Coding Animation" width="420" src="https://github.com/kavidu-himansa/gif/blob/main/profile.gif?raw=true">
+      <img 
+        alt="Coding Animation" 
+        width="420" 
+        src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+      />
     </td>
   </tr>
 </table>
+
 
 ---
 

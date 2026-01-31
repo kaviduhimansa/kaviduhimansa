@@ -1,53 +1,53 @@
-<h1 align="center">Hi 👋, I'm Kavidu Himansa</h1>
-<h3 align="center">Undergraduate IT Student | Full-Stack Web Development Enthusiast</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaviduhimansa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Kavidu%20Himansa&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-<br> <table align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Undergraduate-BCI-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-black?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kaviduhimansa&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<br>
+
+## 💫 About Me
+<table align="center">
   <tr>
-    <td width="50%" align="left">
-
-- 🎓 Undergraduate at **BCI**
-- 🌱 Currently learning **Laravel & Modern Web Technologies**
-- 💬 Ask me about **React, JavaScript & PHP**
-- 📫 Contact: **kawwahimansa@gmail.com**
-
+    <td width="55%" style="vertical-align: top;">
+      <p>I am an IT Undergraduate at <b>BCI</b> with a passion for building scalable web applications. Currently, I'm diving deep into the <b>Laravel</b> ecosystem while perfecting my <b>React</b> skills.</p>
+      <ul>
+        <li>🌱 Learning: <b>Laravel & Modern DevOps</b></li>
+        <li>💬 Tech Stack: <b>React, JavaScript, PHP & Node.js</b></li>
+        <li>📫 Let's talk: <b>kawwahimansa@gmail.com</b></li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <img alt="Coding Animation" width="400" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzRnd3JpYmZ4bmZpZzRnd3JpYmZ4bmZpZzRnd3JpYmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 10px;">
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzRnd3JpYmZ4bmZpZzRnd3JpYmZ4bmZpZzRnd3JpYmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 20px; border: 2px solid #0e75b6;" />
     </td>
   </tr>
 </table>
 
-<br> <hr>
 <br>
 
-## 📊 GitHub Stats
+---
 
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviduhimansa&theme=dark&show_icons=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviduhimansa&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,mongodb,nodejs,git,bootstrap,tailwind" />
 </p>
 
 <br>
-<hr>
-<br>
 
-## 🛠️ Languages & Tools
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kavidu-himansa-0bb6802a6" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kawwahimansa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Light.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="45"/>
-  <img src="
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>

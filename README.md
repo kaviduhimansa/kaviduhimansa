@@ -38,6 +38,21 @@
 
 <br>
 
+---
+
+## 🐍 Automation in Motion
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaviduhimansa/kaviduhimansa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaviduhimansa/kaviduhimansa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaviduhimansa/kaviduhimansa/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+<br>
+
+---
+
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kavidu-himansa-0bb6802a6" target="_blank">

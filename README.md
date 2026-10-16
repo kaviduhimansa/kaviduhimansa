@@ -4,18 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://kavidu-himansa-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20website-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Visit my portfolio website" /></a>
-  <a href="https://www.linkedin.com/in/kavidu-himansa-0bb6802a6"><img src="https://img.shields.io/badge/LINKEDIN-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
-  <a href="mailto:kawwahimansa@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-334155?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Email Kavidu" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaviduhimansa"><img src="https://avatars.githubusercontent.com/u/183404697?v=4" width="92" height="92" alt="Kavidu Himansa's GitHub profile avatar" /></a>
-</p>
-
-<h2 align="center">Hello, I'm Kavidu</h2>
-
 <p align="center">IT undergraduate at <strong>BCI</strong> · Sri Lanka<br />I build practical web and mobile applications and enjoy learning how thoughtful software can improve everyday workflows.</p>
 
 ## About me
